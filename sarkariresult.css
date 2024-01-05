@@ -1,0 +1,240 @@
+.main{
+    height: 170px;
+    width: 900px;
+    /* border: 2px solid black; */
+    margin-left: 200px;
+    text-align: center;
+    display: flex;
+    background-color:rgb(163, 64, 64);
+    color: white;
+
+}
+.img{
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.heading{
+    /* padding-top: 1px;
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-right: 200px; */
+    /* border: 2px solid black; */
+    height: 100px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.nav{
+    /* border: 2px solid yellow; */
+    display: flex;
+    height:40px;
+    width: 902px;
+    /* border: 2px solid black; */
+    margin-left: 200px;
+    color: white;
+    background-color: black;
+    
+}
+.one{
+    margin-left: 15px;
+    /* margin-top: 20px; */
+    border-right: 2px solid rgb(255, 255, 255);
+    height:70px;
+    width: 900px;
+}
+.main2{
+    height: 300px;
+    width: 896px;
+    /* border: 2px solid black; */
+    margin-left: 200px;
+    text-align: center;
+}
+.main2 #h4_1{
+    color: blue;
+}
+.main2 h4{
+    /* text-align: center; */
+    color: blue;
+    
+} 
+
+.main2 #h4{
+    color: red;
+}
+.main3{
+    height: 300px;
+    width: 896px;
+    /* border: 2px solid black; */
+    margin-left: 200px;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+.main3 button{
+    background-color: rgb(24, 129, 170);
+    color: white;
+    border-radius: 10px;
+}
+.main3 .one{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    margin-left: 300px;
+    text-decoration: underline;
+}
+.main3 .apply{
+    height: 200px;
+    width: 882px;
+    /* border: 2px solid black; */
+    margin-left: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.main3 .eight{
+    height: 60px;
+    width:205px ;
+    /* border: 2px solid black; */
+    margin: 5px;
+    color: white;
+}
+#e1{
+    background-color: rgb(27, 189, 27);
+   
+}
+#e2{
+    background-color: blue;
+}
+#e3{
+    background-color: rgb(195, 195, 24);
+}
+#e4{
+    background-color: brown;
+}
+#e5{
+    background-color: rgb(214, 32, 32);
+}
+#e6{
+    background-color: rgb(161, 22, 22);
+}
+#e7{
+    background-color: rgba(189, 0, 31, 0.488);
+}
+#e8{background-color: blueviolet;}
+
+.bigeight{
+    height: 1900px;
+    width: 950px;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.bigeight .one{
+    height: auto;
+    width: 290px;
+    border:2px solid brown;
+    margin: 10px;
+    
+}
+#six{
+    height: 900px;
+    width: 290px;
+}
+#be1{
+    border: 2px solid black;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main4{
+    height: 600px;
+    width: 1015px;
+    border: 2px solid brown;
+    margin-left: 170px;
+    text-align: center;
+    margin-top: 70px;
+}
+.main4 .one{
+    color: white;
+    background-color: brown;
+    width: 100%;
+    /* border: 2px solid black; */
+    margin: 0px;
+    height: 38px;
+    border-right: 2px solid brown;
+    
+    
+}
+.main4 p{
+    font-size: large;
+    /* font-style: initial; */
+}
+.main5{
+    height: 500px;
+    width: 1015px;
+    border: 2px solid brown;
+    margin-left: 170px;
+    text-align: center;
+    font-size: large;
+    /* margin-top: 70px; */
+}
+
+.main5 .one{
+    color: white;
+    background-color: brown;
+    width: 100%;
+    /* border: 2px solid black; */
+    margin: 0px;
+    height: 38px;
+    border-right: 2px solid brown;
+}
+.main6{
+    height: 840px;
+    width: 1015px;
+    border: 2px solid brown;
+    margin-left: 170px;
+    text-align: center;
+    font-size: large;
+}
+.main6 .one{
+    color: white;
+    background-color: brown;
+    width: 100%;
+    /* border: 2px solid black; */
+    margin: 0px;
+    height: 38px;
+    border-right: 2px solid brown;
+}
+.o{
+    display: flex;
+    /* border: 2px solid black; */
+    width: 630px;
+    height: 1050px;
+    margin-top: 0px;
+    flex-wrap: wrap;
+}
+
